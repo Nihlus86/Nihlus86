@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ábel, also known as @Nihlus86
+- 👀 I’m interested in programming, web developement, computer games, ice-hockey, and many other things.
+- 🌱 I’m currently learning web development. I've got a high school exam from IT: incl. bit of a Python programming.
